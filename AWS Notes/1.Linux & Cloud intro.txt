@@ -1610,7 +1610,7 @@ Note: Check accessing apache server from outside using system IP
 	$ cd /var/www/html
 	$ cat > index.html
 
-	<h1> Welcome to Ashok IT - Website</h1>
+	<h1> Welcome to JK Tutorials - Website</h1>
 		
 +++++++++++++++++++++++++++++++++++++++++
 Deploying Static Website In EC2 Instance
