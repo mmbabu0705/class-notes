@@ -27,7 +27,7 @@ For Linux Machines we will use  ==> SSH - 22
 
 For WebServers ==> HTTP - 80
 
-For WebServer + SSL  ==> HTTPS - 443
+For WebServer + SSL (Secure Socket Layer)  ==> HTTPS - 443
 
 
 Note: We can configure particular IP also in security group.
